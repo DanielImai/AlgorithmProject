@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="InsertionSort7552.cpp" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente10.txt" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente100.txt" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente1000.txt" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente10000.txt" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente100000.txt" />
+		<Unit filename="InsertionSort/Entrada/Crescente/entradacrescente1000000.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente10.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente100.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente1000.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente10000.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente100000.txt" />
+		<Unit filename="InsertionSort/Entrada/Decrescente/entradadecrescente1000000.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom10.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom100.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom1000.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom10000.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom100000.txt" />
+		<Unit filename="InsertionSort/Entrada/Random/entradarandom1000000.txt" />
+		<Unit filename="algoritmos.h" />
+		<Unit filename="executartodos.cpp" />
+		<Unit filename="files.h" />
+		<Unit filename="functions.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

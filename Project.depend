@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1736822383 source:c:\users\danie\onedrive\documents\projeto de algoritmos\insertionsort7552.cpp
+	"functions.h"
+	"files.h"
+
+1738113240 c:\users\danie\onedrive\documents\projeto de algoritmos\functions.h
+	"algoritmos.h"
+
+1738113197 c:\users\danie\onedrive\documents\projeto de algoritmos\algoritmos.h
+	<stdio.h>
+	<stdlib.h>
+	<iterator>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<string>
+	<queue>
+
+1731386080 c:\users\danie\onedrive\documents\projeto de algoritmos\files.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1736826480 source:c:\users\danie\onedrive\documents\projeto de algoritmos\executartodos.cpp
+	"files.h"
+
